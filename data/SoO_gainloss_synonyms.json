@@ -1,0 +1,126 @@
+[
+    [
+        "Realized and unrealized gain from investments",
+        "Realized and unrealized gain (loss) from investments", 
+        "Net realized and unrealized gain (loss)", 
+        "Realized and unrealized gain (loss) on investments", 
+        "Realized and unrealized gain (loss) on investments", 
+        "Realized and unrealized gain (loss) on investments and foreign currency transactions"
+    ], 
+    [
+    	"Net realized gain (loss) [Total]",
+    	"Net realized gain (loss)"
+    ],
+    [
+        "Net realized gain (loss) from:",
+        "Net realized gain (loss) from:",
+        "Net realized loss from", 
+        "Net realized gain from"
+        
+    ],
+    [
+    	"Interest",
+    	"Interest"
+    ], 
+    [
+    	"Dividends",
+    	"Dividends"
+    ],
+    [
+    	"Forward contracts",
+    	"Forward contracts"
+    ],
+    [
+    	"Foreign currency transactions",
+    	"Foreign currency transactions"
+    ],
+    [
+    	"Options on future contracts",
+    	"Options on future contracts"
+    ],
+    [
+    	"Security transactions",
+    	"Security transactions"
+    ],
+    [
+    	"Future contracts",
+    	"Future contracts"
+   	],
+   	[
+   		"Swaps",
+   		"Swaps"
+   	],
+   	[
+   		"Broker commissions",
+   		"Broker commissions"
+   	],
+   	[
+   		"Investments",
+   		"Investments"
+   	],
+    [
+    	"Net realized gain (loss)",
+    	"Net realized gain (loss)",
+    	"Total realized gain (loss)",
+        "Total realized gain", 
+        "Total realized loss"
+    ],
+   	[
+        "Net change in unrealized appreciation (depreciation) [Total]",
+        "Net unrealized gain (loss)", 
+        "Net unrealized gain (loss)", 
+        "Net change in unrealized appreciation (depreciation)", 
+        "Net change in unrealized appreciation (depreciation)"
+    ],
+    [
+        "Net change in unrealized appreciation (depreciation) on:",
+        "Net unrealized gain (loss) on", 
+        "Net unrealized gain (loss) of investments on", 
+        "Net change in unrealized appreciation (depreciation) on", 
+        "Net change in unrealized appreciation (depreciation) on"
+    ], 
+    [
+        "Net gain (loss) from investments",
+        "Net gain (loss) on investments", 
+        "Net realized and unrealized gain (loss)",
+        "Net gain on investments",
+        "Net loss on investments",
+        "Net realized and unrealized loss",
+        "NET GAIN FROM INVESTMENTS "
+        
+    ], 
+    [
+        "Net decrease in net assets",
+        "Net decrease in net assets",
+        "Net increase (decrease) in net assets resulting from operations", 
+        "Net decrease in net assets resulting from operations", 
+        "Net decrease in net assets from operations", 
+        "Net increase in net assets resulting from operations"
+    ], 
+    [
+        "Dividends paid on preferred equity facility",
+        "Dividends paid on preferred equity facility"
+    ], 
+    [
+        "Net change in accumulated dividends on preferred equity facility",
+        "Net change in accumulated dividends on preferred equity facility"
+    ], 
+    [
+        "Investments",
+        "Investments"
+    ], 
+    [
+        "Futures",
+        "Futures", 
+        "Futures contracts"
+    ], 
+    [
+        "Foreign currency",
+        "Foreign currency", 
+        "Foreign currency transactions"
+    ], 
+    [
+        "Swaps",
+        "Swaps"
+    ]
+]

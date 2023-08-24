@@ -1,0 +1,54 @@
+[
+    [
+    	"Income",
+        "Investment income", 
+        "Income"
+    ], 
+    [
+    	"Interest",
+        "Interest income", 
+        "Interest"
+    ], 
+    [
+    	"Interest:",
+    	"Interest:"
+    ],
+    [
+    	"Companies owned (more|less) than X%",
+    	"Companies owned more than",
+    	"Companies owned less than"
+    ],
+    [
+    	"Dividends",
+        "Dividend income", 
+        "Dividends"
+    ], 
+    [
+    	"Dividends:",
+    	"Dividends:"
+    ],
+    [
+        "Lease",
+        "Lease income",
+        "Lease"
+    ], 
+    [
+    	"Securities lending",
+    	"Securities lending",
+    	"Securities lending income"
+    ],
+    [
+        "Other income",
+        "Other income"
+    ], 
+    [
+        "Total investment income [Total]", 
+        "Total investment income",
+        "Total income"
+    ],
+    [
+    	"unspecified sub-item",
+    	"unspecified sub-item"
+    ]
+    
+]

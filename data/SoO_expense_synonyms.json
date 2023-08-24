@@ -1,0 +1,325 @@
+[
+	[   
+		"undefined",
+		""
+	],
+    [
+    	"Expenses",
+        "Expenses",
+        "Operating Expenses"
+    ], 
+    [
+    	"Accounting",
+        "Accounting", 
+        "Accounting fees", 
+        "Accounting services"
+    ], 
+    [
+    	"Administration",
+        "Administrator", 
+        "Administration", 
+        "Administration and accounting fees", 
+        "Administration fees", 
+        "Administrative service fees"
+    ], 
+    [
+    	"Amortization", 
+        "Amortization", 
+        "Amortization of offering costs of preferred shares"
+    ], 
+    [	
+    	"Auction fees", 
+        "Auction fees", 
+        "Auction agent fees and commissions"
+    ], 
+    [
+        "Audit", 
+        "Audit", 
+        "Audit and tax fees", 
+        "Audit and tax services"
+    ], 
+    [
+        "Audit and accounting",
+        "Audit and accounting fees", 
+        "Audit and accounting"
+    ], 
+    [
+    	"Audit and legal",
+    	"Audit and legal"
+    ],
+    [
+        "Commitment fees",
+        "Commitment fees"
+    ], 
+    [
+        "Compliance officer fees",
+        "Compliance officer fees"
+    ], 
+    [
+        "Custodian", 
+        "Custodian", 
+        "Custodian and accounting agent ", 
+        "Custodian fee ", 
+        "Custodian fees and expenses", 
+        "Custody fees"
+    ], 
+    [
+		"Custodian and accounting",
+		"Custodian and accouting",
+		"Custodian and accouting fees",
+		"Custodian and accouting expenses"    
+    ],
+    [
+    	"Custody, accounting and administration",
+    	"Custody, accounting and administration"
+    ],
+    [
+        "Directors/trustee comp", 
+        "Directors  fees and filing fees", 
+        "Directors fees", 
+        "Directors fees and expenses", 
+        "Directors/trustees fees", 
+        "Officer & trustees", 
+        "Trustee fees & expense", 
+        "Trustee fees and related expenses", 
+        "Trustees and officers fees and benefits ", 
+        "Trustees fees", 
+        "Trustees fees and expenses"
+    ], 
+    [
+        "Distribution fees",
+        "Distribution fees",  
+        "Distribution plan expenses"
+    ], 
+    [
+    	"Waivers",
+    	"Waivers"
+    ],
+    [
+    	"Administrator waiver",
+    	"Fees waived by the administrator"
+    ],
+    [
+    	"Advisor waiver",
+    	"Fees waived by the advisor"
+    ],
+    [
+    	"Advisor recoup",
+    	"Advisor recoup"
+    ],
+    [
+    	"Combined waiver",
+    	"Combined waiver"
+    ],
+    [
+    	"Other waiver",
+    	"Fees waived"
+    ],
+    [
+    	"Distribution waiver",
+    	"Distribution waiver"
+    ],
+    [
+        "Fund accounting",
+        "Fund accounting",  
+        "Fund accounting fees"
+    ], 
+    [
+        "General and administrative"
+    ], 
+    [
+        "Incentive fees",
+        "Incentive fees"
+    ], 
+    [
+        "Insurance",
+        "Insurance",  
+        "Insurance expense"
+    ], 
+    [
+        "Interest expense",
+        "Interest expense", 
+        "Interest", 
+        "Interest and fees on loan", 
+        "Interest and fees on outstanding loan", 
+        "Interest expense", 
+        "Interest expense and amortization of offering costs", 
+        "Interest expense and fees", 
+        "Interest expense and fees on borrowings", 
+        "Interest facilities and maintenance fees", 
+        "Interest expense and amortization of deferred offering costs on preferred shares"
+    ], 
+    [
+        "Investment advisory fees",
+        "Investment advisory fees", 
+        "Advisory fees"
+    ], 
+    [
+        "Legal and accounting",
+        "Legal and accounting", 
+        "Legal and accounting fees",  
+        "Legal and accounting services"
+    ], 
+    [
+        "Legal fees", 
+        "Legal", 
+        "Legal fees"
+    ], 
+    [
+        "Legal fees, professional fees, due diligence expenses",
+        "Legal fees, professional fees, due diligence expenses"
+    ], 
+    [
+        "Line of credit", 
+        "Line of credit"
+    ], 
+    [
+        "Liquidity fees",
+        "Liquidity", 
+        "Liquidity fees"
+    ], 
+    [
+        "Listing fees", 
+        "Listing fees",
+        "New york stock exchange listing ", 
+        "Stock exchange listing fees"
+    ], 
+    [
+        "Management fees",
+        "Management fees"
+    ], 
+    [
+        "Management and advisory fees",
+        "Management and advisory fees"
+    ], 
+    [
+        "Management fee to affiliate",
+        "Management fee to affiliate"
+    ], 
+    [
+        "Miscellaneous/other",
+        "Miscellaneous/other",  
+        "Misc", 
+        "Miscellaneous", 
+        "Miscellaneous expense", 
+        "Other", 
+        "Other expenses", 
+        "Others", 
+        "Other operating expenses"
+    ], 
+    [
+        "Net expenses",
+        "Net expenses"
+    ], 
+    [
+        "Net investment income / loss",
+        "Net investment income / loss"
+    ], 
+    [
+        "Offering expenses",
+        "Offering expenses",  
+        "Offering", 
+        "Shelf offering expenses"
+    ], 
+    [
+    	"Organization costs",
+    	"Organization costs"
+    ],
+    [
+        "Payroll",
+        "Payroll",  
+        "Payroll expenses"
+    ], 
+    [
+        "Preferred shares service fee", 
+        "Preferred shares service fee"
+    ], 
+    [
+        "Printing, postage, mailings",
+        "Printing, postage, mailings", 
+        "Printing", 
+        "Printing and postage", 
+        "Printing fees", 
+        "Printing fees and expenses"
+    ], 
+    [
+        "Professional",
+        "Professional",  
+        "Legal and audit fees", 
+        "Professional", 
+        "Professional fees"
+    ], 
+    [
+        "Ratings fees",
+        "Ratings fees",  
+        "Rating agency"
+    ], 
+    [
+        "Registration", 
+        "Registration", 
+        "Registration and filing fees ", 
+        "Registration fees"
+    ], 
+    [
+        "Remarketing",
+        "Remarketing",  
+        "Remarketing fees"
+    ], 
+    [
+        "Remarketing preferred shares",
+        "Remarketing - preferred shares", 
+        "Remarketing fees on preferred shares"
+    ], 
+    [
+        "Reorganization",
+        "Reorganization",  
+        "Reorganization cost", 
+        "Reorganization expenses"
+    ], 
+    [
+        "Reporting",
+        "Reporting",  
+        "Financial reporting fees"
+    ], 
+    [
+        "Reports to shareholders", 
+        "Reports to shareholders", 
+        "Shareholder reporting expenses", 
+        "Shareholder reporting fees", 
+        "Shareholder reports"
+    ], 
+    [
+        "Shareholder communications", 
+        "Shareholder communications", 
+        "Shareholder communications expenses"
+    ], 
+    [
+        "Shareholder expenses",
+        "Shareholder expenses", 
+        "Shareholder servicing costs", 
+        "Shareholder servicing fees"
+    ], 
+    [
+        "Tax",
+        "Tax",  
+        "Income tax"
+    ], 
+    [
+        "Total expenses [Total]",
+        "Total expenses", 
+        "Total operating expenses"
+    ], 
+    [
+        "Transfer agent",
+        "Transfer agent", 
+        "Servicing agent fees", 
+        "Shareholder services fees", 
+        "Shareholder servicing agent fees", 
+        "Ta fees", 
+        "Transfer agent", 
+        "Transfer agent fees", 
+        "Transfer agent fees and expenses", 
+        "Transfer and dividend disbursing agent fees", 
+        "Investor relations expenses"
+    ]
+]
