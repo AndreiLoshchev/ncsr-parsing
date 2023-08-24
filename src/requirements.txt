@@ -1,0 +1,16 @@
+cssutils==1.0
+dill==0.2.6
+leven==1.0.4
+lxml==3.6.4
+nltk==3.2.1
+numpy
+pystruct==0.2.4
+requests==2.10.0
+sklearn_crfsuite==0.3.4
+tabulate==0.7.5
+python_dateutil==2.6.0
+scipy==0.18.1
+scikit_learn==0.18.1
+imblearn
+xgboost==0.82
+glob2==0.7
