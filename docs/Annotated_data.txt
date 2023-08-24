@@ -1,0 +1,34 @@
+Advisors preferred trust 2
+Northern lights fund trust 4
+Tennenbaum opportunities Partners 1
+Renn Fund 2	
+First Investors 1
+Dodge & Cox 2
+Wells Fargo 1
+Goldman Sachs 3
+Schwab 2
+American Funds 3
+
+
+Necessary:
+
+The Vanguard Group
+Fidelity
+BlackRock
+American Funds		5
+JPMorgan Funds		
+T Rowe Price	
+Franklin Templeton
+PIMCO LLC
+State Street Glbl
+Federated
+Schwab				2
+Goldman Sachs		5
+DimensionalFundAdv	
+Dreyfus
+Wells Fargo			1
+Invesco
+OppenheimerFunds	5
+MFS
+Dodge & Cox			5
+Morgan Stanley

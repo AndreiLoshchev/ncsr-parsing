@@ -1,0 +1,22 @@
+The top managers for mutual funds, which would cover almost 80% of all the reports that we need to support are:
+
+The Vanguard Group
+Fidelity
+BlackRock
+American Funds
+JPMorgan Funds
+T Rowe Price
+Franklin Templeton
+PIMCO LLC
+State Street Glbl
+Federated
+Schwab
+Goldman Sachs
+DimensionalFundAdv
+Dreyfus
+Wells Fargo
+Invesco
+OppenheimerFunds
+MFS
+Dodge & Cox
+Morgan Stanley

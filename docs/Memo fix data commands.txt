@@ -1,0 +1,70 @@
+# Fix annotator script path in single doc:
+
+sed -i 's/..\/..\/annotator.js/..\/annotator.js/g' VAN_2018-08-31_93247118007309.html
+
+# Fix annotator script path in multiple docs (Recursive):
+find ./ -type f -exec sed -i 's/..\/..\/annotator.js/..\/annotator.js/g' {} \;
+
+-------------------------------------------------------
+# Fix categories:
+
+# Combine shareholder reports into single category
+# Find problematic occurences:
+grep -rnw '.' -e 'soo_label="Expenses//Reporting"'
+
+# Replace 'soo_label="Expenses//Reporting' -> 'soo_label="Expenses//Reports to shareholders'
+find ./ -type f -exec sed -i 's/soo_label="Expenses\/\/Reporting"/soo_label="Expenses\/\/Reports to shareholders"/g' {} \;
+
+
+# Combine Transfer Agent and Shareholder Service
+# Find problematic occurences:
+grep -rnw '.' -e 'soo_label="Expenses//Transfer agent"'
+
+# Replace 'soo_label="Expenses//Reporting"' -> 'soo_label="Expenses//Transfer and shareholder servicing agent"'
+find ./ -type f -exec sed -i 's/soo_label="Expenses\/\/Transfer agent"/soo_label="Expenses\/\/Transfer and shareholder servicing agent"/g' {} \;
+
+
+# Merge "Management and advisory fees" into "Management fees"
+# Find problematic occurences:
+grep -rnw '.' -e 'soo_label="Expenses//Management and advisory fees"'
+
+# Replace 'soo_label="Expenses//Management and advisory fees"' -> 'soo_label="Expenses//Management fees"'
+find ./ -type f -exec sed -i 's/soo_label="Expenses\/\/Management and advisory fees"/soo_label="Expenses\/\/Management fees"/g' {} \;
+
+-------------------------------------------------------
+# Fix invalid non UTF-8 characters
+
+# 1 - Long dash encoded as "â€”":
+grep -rn '.' -e "â€”"
+# Replace with 'space-dash-space'
+find ./ -type f -exec sed -i 's/â€”/ - /g' {} \;
+
+# 2 - Apostrophe encoded as "â€™":
+grep -rn '.' -e "â€™"
+# Replace with single apostrophe
+find ./ -type f -exec sed -i "s/â€™/'/g" {} \;
+
+# 3 - Other long dash encoded as "â€™":
+grep -rn '.' -e "â€“"
+# Replace with 'space-dash-space'
+find ./ -type f -exec sed -i "s/â€“/ - /g" {} \;
+
+# 5 - Bullet encoded as "â€¢":
+grep -rn '.' -e "â€¢"
+# Replace with dash
+find ./ -type f -exec sed -i 's/â€¢/-/g' {} \;
+
+# 6 - Open quote -> â€œ
+find ./ -type f -exec sed -i 's/â€œ/"/g' {} \;
+
+# 7 - Close quote -> â€
+find ./ -type f -exec sed -i 's/â€/"/g' {} \;
+
+-------------------------------------------------------
+# Fix items classified as 'Unsure'
+grep -rnw '.' -e 'soo_label="Expenses//Reporting"'
+
+
+soo_label="not sure" style="border: 1px dashed gray;" width="\d\d%">
+        <font face="UniversLTStd-Light,Arial,Helvetica,sans-serif" size="1">
+         The Vanguard Group - Note B
